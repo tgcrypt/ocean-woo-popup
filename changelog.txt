@@ -1,0 +1,24 @@
+= 1.0.6 =
+- Added: Polish translation, thanks to Fin Fafarafiel.
+- Fixed: Issue on the Edge browser.
+
+= 1.0.5 =
+- Fixed: Translation issue.
+
+= 1.0.4 =
+- Added: Spanish language, thank you to Angel Julian Mena.
+- Fixed: Translation issue.
+- Deleted: Admin notice if OceanWP is not the theme used.
+
+= 1.0.3 =
+- Removed: Deprecated fields.
+
+= 1.0.2 =
+- Tweak: Elementor instance.
+
+= 1.0.1 =
+- Added: New field to select template created from Theme Panel > My Library.
+- Added: French translation, thanks a lot to Jean of freepixel.net.
+
+= 1.0.0 =
+- Initial release.

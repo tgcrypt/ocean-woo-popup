@@ -1,0 +1,219 @@
+# Copyright (C) 2016 
+# This file is distributed under the same license as the  package.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://oceanwp.org/support/\n"
+"POT-Creation-Date: 2017-11-18 18:48+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: OceanWP\n"
+"Language-Team: OceanWP\n"
+"X-Generator: Poedit 2.0.4\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _esc_attr__;esc_attr_x;esc_attr_e;esc_html__;"
+"esc_html_e;esc_html_x;__;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Textdomain-Support: yes\n"
+"Language: en_US\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/helpers.php:17
+msgid "Title"
+msgstr ""
+
+#: includes/helpers.php:18 ocean-woo-popup.php:353
+msgid "Content"
+msgstr ""
+
+#: includes/helpers.php:19
+msgid "Buttons"
+msgstr ""
+
+#: includes/helpers.php:20 ocean-woo-popup.php:404
+msgid "Bottom Text"
+msgstr ""
+
+#: ocean-woo-popup.php:152 ocean-woo-popup.php:161
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: ocean-woo-popup.php:191 ocean-woo-popup.php:313 ocean-woo-popup.php:330
+msgid "Item added to your cart"
+msgstr ""
+
+#: ocean-woo-popup.php:192 ocean-woo-popup.php:347
+msgid "[oceanwp_woo_cart_items] items in the cart ([oceanwp_woo_total_cart])"
+msgstr ""
+
+#: ocean-woo-popup.php:193 ocean-woo-popup.php:364
+msgid "Continue Shopping"
+msgstr ""
+
+#: ocean-woo-popup.php:194 ocean-woo-popup.php:381
+msgid "Go To The Cart"
+msgstr ""
+
+#: ocean-woo-popup.php:229
+msgid "Ocean Woo Popup requires that you use OceanWP as your parent theme."
+msgstr ""
+
+#: ocean-woo-popup.php:229
+msgid "Install OceanWP now"
+msgstr ""
+
+#: ocean-woo-popup.php:250
+msgid "Woo Popup"
+msgstr ""
+
+#: ocean-woo-popup.php:264
+msgid "Display Popup"
+msgstr ""
+
+#: ocean-woo-popup.php:265
+msgid ""
+"This field is just to allow you to display the popup in the customizer "
+"preview"
+msgstr ""
+
+#: ocean-woo-popup.php:270 ocean-woo-popup.php:271
+msgid "Show"
+msgstr ""
+
+#: ocean-woo-popup.php:284
+msgid "Select Template"
+msgstr ""
+
+#: ocean-woo-popup.php:285
+msgid "Choose a template created in Theme Panel > My Library."
+msgstr ""
+
+#: ocean-woo-popup.php:302
+msgid "Elements Positioning"
+msgstr ""
+
+#: ocean-woo-popup.php:319 ocean-woo-popup.php:336
+msgid "Title Text"
+msgstr ""
+
+#: ocean-woo-popup.php:354
+#, php-format
+msgid "Shortcodes allowed, %1$ssee the list%2$s."
+msgstr ""
+
+#: ocean-woo-popup.php:370
+msgid "Continue Button Text"
+msgstr ""
+
+#: ocean-woo-popup.php:387
+msgid "Go Cart Button Text"
+msgstr ""
+
+#: ocean-woo-popup.php:398
+msgid "[oceanwp_woo_free_shipping_left]"
+msgstr ""
+
+#: ocean-woo-popup.php:419
+msgid "Styling"
+msgstr ""
+
+#: ocean-woo-popup.php:443
+msgid "Width (px)"
+msgstr ""
+
+#: ocean-woo-popup.php:477
+msgid "Height (px)"
+msgstr ""
+
+#: ocean-woo-popup.php:555
+msgid "Padding (px)"
+msgstr ""
+
+#: ocean-woo-popup.php:637
+msgid "Border Radius (px)"
+msgstr ""
+
+#: ocean-woo-popup.php:670
+msgid "Popup Background"
+msgstr ""
+
+#: ocean-woo-popup.php:686
+msgid "Overlay Color"
+msgstr ""
+
+#: ocean-woo-popup.php:702
+msgid "Check Mark Background"
+msgstr ""
+
+#: ocean-woo-popup.php:718
+msgid "Check Mark Color"
+msgstr ""
+
+#: ocean-woo-popup.php:734
+msgid "Title Color"
+msgstr ""
+
+#: ocean-woo-popup.php:750
+msgid "Content Color"
+msgstr ""
+
+#: ocean-woo-popup.php:765
+msgid "Continue Button Background"
+msgstr ""
+
+#: ocean-woo-popup.php:781
+msgid "Continue Button Color"
+msgstr ""
+
+#: ocean-woo-popup.php:797
+msgid "Continue Button Border Color"
+msgstr ""
+
+#: ocean-woo-popup.php:813
+msgid "Continue Button Background: Hover"
+msgstr ""
+
+#: ocean-woo-popup.php:829
+msgid "Continue Button Color: Hover"
+msgstr ""
+
+#: ocean-woo-popup.php:845
+msgid "Continue Button Border Color: Hover"
+msgstr ""
+
+#: ocean-woo-popup.php:860
+msgid "Cart Button Background"
+msgstr ""
+
+#: ocean-woo-popup.php:876
+msgid "Cart Button Color"
+msgstr ""
+
+#: ocean-woo-popup.php:892
+msgid "Cart Button Border Color"
+msgstr ""
+
+#: ocean-woo-popup.php:908
+msgid "Cart Button Background: Hover"
+msgstr ""
+
+#: ocean-woo-popup.php:924
+msgid "Cart Button Color: Hover"
+msgstr ""
+
+#: ocean-woo-popup.php:940
+msgid "Cart Button Border Color: Hover"
+msgstr ""
+
+#: ocean-woo-popup.php:955
+msgid "Bottom Text Color"
+msgstr ""
+
+#: ocean-woo-popup.php:970
+msgid "Default"
+msgstr ""
